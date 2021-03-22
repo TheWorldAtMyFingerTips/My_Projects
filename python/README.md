@@ -29,7 +29,9 @@ After which I got down to serious business by setting up my Machine_Learning_Mod
 
 Next, I carried out the same steps with my Machine_Learning_Model_2 - Random Forest. Setup, hyperparameter tuning, ... you get the drift. This new model's F1 Score topped the previous (Machine_Learning_Model_1 - Logistic Regression). With this as my best model, I moved on to predicting and evaluating using my test data.
 
+![ML model comparison](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/python/images/ML%20Models%20Comparison.JPG)
 
 #### Results
-Based on the F1 Score for both models, I had decided that `Random Forest` was the best model to 
+Fortunately, the model metrics for the test data did not vary significantly (vs the training data). The results look good as well with immaterial FPs and FNs.
+
 
