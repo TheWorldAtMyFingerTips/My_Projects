@@ -25,9 +25,9 @@ The dataset was checked and clean of missing values, datatypes were streamlined 
 
 I warmed up by doing a baseline model using Logistic Regression and took note of the F1 Score.
 
-After which I got down to serious business by setting up my Machine_Learning_Model_1 - Logistic Regression, then getting down and dirty with hyperparameter tuning. Using the best hyperparameters and estimators (from my tuning), I fitted them to the training data, predicted with the test data, to obtain the classification report for the model. My Machine_Learning_Model_1 - Logistic Regression F1 Score topped the baseline model. I am happy.
+After which I got down to serious business by setting up my first machine learning model `(Logistic Regression)`, then getting down and dirty with hyperparameter tuning. Using the best hyperparameters and estimators (from my tuning), I fitted them to the training data, predicted with the test data, to obtain the classification report for the model. My Machine_Learning_Model_1 - Logistic Regression F1 Score topped the baseline model. I am happy.
 
-Next, I carried out the same steps with my Machine_Learning_Model_2 - Random Forest. Setup, hyperparameter tuning, ... you get the drift. This new model's F1 Score topped the previous (Machine_Learning_Model_1 - Logistic Regression). With this as my best model, I moved on to predicting and evaluating using my test data.
+Next, I carried out the same steps with my second machine learning model `(Random Forest)`. Setup, hyperparameter tuning, ... you get the drift. This new model's F1 Score topped the previous (Machine_Learning_Model_1 - Logistic Regression). With this as my best model, I moved on to predicting and evaluating using my test data.
 
 ![ML model comparison](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/python/images/ML%20Models%20Comparison.JPG)</br>
 
