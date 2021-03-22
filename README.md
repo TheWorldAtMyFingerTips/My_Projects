@@ -1,7 +1,7 @@
-# Python
+# Associate Data Analytics
 
 ### Introduction
-Python was the final *language* in the curriculum. We had started off with the basics (of data types, flow control, functions, dictionaries, classes, etc.), learnt how to automate repetitive tasks, data analytics, create dashboards, and build machine learning models (of linear regression, k-nearest neighbours, support vector machines, random forests, neural networks, deep learning with Keras and TensorFlow, etc).
+The course aimed to provide a 
 
 ### [Capstone Project: Build Machine Learning Models for the Instagram Top Post Dataset](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/python/Instagram%20Top%20Post.ipynb)
 
