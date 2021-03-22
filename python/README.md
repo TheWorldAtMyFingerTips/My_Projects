@@ -49,7 +49,10 @@ Having plotted the features importance into a visualization, we can deduce that 
 The data-driven approach suggests to focus on creating content which:
 * aim to provide instant gratification --> `like_count`
 * encourages engagement --> `comments_count`
-* is addictive --> `followers`</br></br>
+* is addictive --> `followers`
+
+But of course, that being said, life is a mix of the quants and qualitative aspects and so we need to consider the latter as well :)
+</br></br>
 
 
 ### Contact me
