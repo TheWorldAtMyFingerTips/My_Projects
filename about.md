@@ -11,7 +11,7 @@ In today's society, smartphones have become ubiquitious and an essential tool fo
 This project aims to better understand Instagram's algorithm and, from a user-standpoint - find out which are the "super" variables to focus efforts on in the trajectory to making Instagram top posts.
 
 ###### Top Posts in the Explore and Home tabs
-![What is an Instagram Top Post](https://github.com/TheWorldAtMyFingerTips/DS/blob/main/What%20is%20an%20Insta%20Top%20Post.png)
+![What is an Instagram Top Post](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/images/What%20is%20an%20Insta%20Top%20Post.png)
 
 
 #### Dataset Introduction
