@@ -15,7 +15,7 @@ This project aims to better understand Instagram's algorithm and, from a user-st
 
 
 ### Dataset Introduction
-The [Instagram Top Post Dataset](https://www.kaggle.com/rezaunderfit/instagram-top-post) consists of 16 independent variables (of "like_count", "hashtag_count", "is_verified", "is_video", etc.) with a target column of "is_top". It is a balanced dataset which contains a total of 2170 entries, with 1099 top posts and 1071 not top posts.
+The [Instagram Top Post Dataset](https://www.kaggle.com/rezaunderfit/instagram-top-post) consists of 16 independent variables (of `like_count`, `hashtag_count`, `is_verified`, `is_video`, etc.) with a target column of "is_top". It is a balanced dataset which contains a total of 2170 entries, with 1099 top posts and 1071 not top posts.
 
 ### Problem Statement
 **Which variables hold higher weightage in making a post come up on top?** This project uses Machine Learning Models of `Logistic Regression` and `Random Forest` in sifting out the "super" variables.
@@ -44,5 +44,11 @@ Having plotted the features importance into a visualization, we can deduce that 
 The data-driven approach suggests to focus on creating content which:
 * aim to provide instant gratification --> `like_count`
 * encourages engagement --> `comments_count`
-* is addictive --> `followers`
+* is addictive --> `followers`</br></br>
 
+
+### Contact me
+Contact Platform | Contact Address
+---------------- | ------------------
+LinkedIn | https://www.linkedin.com/in/megan-ng-7708a74/
+Email | megan_ng@hotmail.com
