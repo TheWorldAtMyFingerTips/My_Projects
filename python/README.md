@@ -18,7 +18,16 @@ This project aims to better understand Instagram's algorithm and, from a user-st
 The [Instagram Top Post Dataset](https://www.kaggle.com/rezaunderfit/instagram-top-post) consists of 16 independent variables (of "like_count", "hashtag_count", "is_verified", "is_video", etc.) with a target column of "is_top". It is a balanced dataset which contains a total of 2170 entries, with 1099 top posts and 1071 not top posts.
 
 #### Problem Statement
-Which variables hold higher weightage in making a post come up on top? This project uses Machine Learning Models of `Logistic Regression` and `Random Forest` in sifting out the "super" variables.
+**Which variables hold higher weightage in making a post come up on top?** This project uses Machine Learning Models of `Logistic Regression` and `Random Forest` in sifting out the "super" variables.
+
+#### Process Workflow
+The dataset was checked and clean of missing values, datatypes were streamlined into two types (object, and non-object) to enable easy visualizations for the purpose of exploratory data analysis. Data was then pre-processed using label-encoding and one-hot-encoding, and then data was split and model trained. Due to the data being previously categorical and numerical, the range of the encoding was wide and so I scaled the data using `sklearn.preprocessing`'s `StandardScaler`, then fitted it to the training data and applied transformations to the data.
+
+I warmed up by doing a baseline model using Logistic Regression and took note of the F1 Score.
+
+After which I got down to serious business by setting up my Machine_Learning_Model_1 - Logistic Regression, then getting down and dirty with hyperparameter tuning. Using the best hyperparameters and estimators (from my tuning), I fitted them to the training data, predicted with the test data, to obtain the classification report for the model. My Machine_Learning_Model_1 - Logistic Regression F1 Score topped the baseline model. I am happy.
+
+Next, I carried out the same steps with my Machine_Learning_Model_2 - Random Forest. Setup, hyperparameter tuning, ... you get the drift. This new model's F1 Score topped the previous (Machine_Learning_Model_1 - Logistic Regression). With this as my best model, I moved on to predicting and evaluating using my test data.
 
 
 #### Results
