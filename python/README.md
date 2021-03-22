@@ -33,10 +33,14 @@ Next, I carried out the same steps with my second machine learning model `(Rando
 ![ML model comparison](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/python/images/ML%20Models%20Comparison.JPG)</br></br>
 
 ### Results
-Fortunately, the model metrics for the test data did not vary significantly (vs the training data). The results look good as well with immaterial FPs and FNs.</br></br>
+Fortunately, the model metrics for the test data did not vary significantly (vs the training data). 
+###### Classification Report of Test Data using Random Forest
+![random forest test data classification report](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/python/images/RF%20on%20Test%20Data.JPG)</br></br>
+
+The results look good as well with immaterial FPs and FNs.
 
 ###### Results in a Confusion Matrix Visualization
-![confusion matrix](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/python/images/Confusion%20Matrix.JPG)
+![confusion matrix](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/python/images/Confusion%20Matrix.JPG)</br></br>
 
 Having plotted the features importance into a visualization, we can deduce that the top "super" variables are `like_count`, `comments_count`, and `followers_count`.
 
