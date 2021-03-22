@@ -18,7 +18,7 @@ This project aims to better understand Instagram's algorithm and, from a user-st
 The [Instagram Top Post Dataset](https://www.kaggle.com/rezaunderfit/instagram-top-post) consists of 16 independent variables (of `like_count`, `hashtag_count`, `is_verified`, `is_video`, etc.) with a target column of "is_top". It is a balanced dataset which contains a total of 2170 entries.</br>
 
 ### Problem Statement
-**Which variables hold higher weightage in making a post come up on top?** The dataset has a target column of `is_top`, with binary data of Y or N. This project adopts a supervised learning approach, using Machine Learning Models of `Logistic Regression` and `Random Forest` in sifting out the "super" variables.</br>
+**Which variables hold higher weightage in making a post come up on top?** The dataset has a target column of `is_top`, with binary data of "Y" or "N". This project adopts a supervised learning approach, using Machine Learning Models of `Logistic Regression` and `Random Forest` in sifting out the "super" variables.</br>
 
 ### Process Workflow
 The dataset was checked and clean of missing values, datatypes were streamlined into two types (object, and non-object) to enable easy visualizations for the purpose of exploratory data analysis. Data was then pre-processed using label-encoding and one-hot-encoding, and then data was split and model trained. Due to the data being previously categorical and numerical, the range of the encoding was wide and so I scaled the data using `sklearn.preprocessing`'s `StandardScaler`, then fitted it to the training data and applied transformations to the data.
