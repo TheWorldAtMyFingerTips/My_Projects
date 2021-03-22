@@ -11,14 +11,14 @@ In today's society, smartphones have become ubiquitious and an essential tool fo
 This project aims to better understand Instagram's algorithm and, from a user-standpoint - find out which are the "super" variables to focus efforts on, in the trajectory to making Instagram top posts.
 
 ###### Top Posts in the Explore and Home tabs
-![What is an Instagram Top Post](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/python/images/What%20is%20an%20Insta%20Top%20Post.png)</br>
+![What is an Instagram Top Post](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/python/images/What%20is%20an%20Insta%20Top%20Post.png)</br></br>
 
 
 ### Dataset Introduction
-The [Instagram Top Post Dataset](https://www.kaggle.com/rezaunderfit/instagram-top-post) consists of 16 independent variables (of `like_count`, `hashtag_count`, `is_verified`, `is_video`, etc.) with a target column of "is_top". It is a balanced dataset which contains a total of 2170 entries.</br>
+The [Instagram Top Post Dataset](https://www.kaggle.com/rezaunderfit/instagram-top-post) consists of 16 independent variables (of `like_count`, `hashtag_count`, `is_verified`, `is_video`, etc.) with a target column of "is_top". It is a balanced dataset which contains a total of 2170 entries.</br></br>
 
 ### Problem Statement
-**Which variables hold higher weightage in making a post come up on top?** The dataset has a target column of `is_top`, with binary data of "Y" or "N". This project adopts a supervised learning approach, using Machine Learning Models of `Logistic Regression` and `Random Forest` in sifting out the "super" variables.</br>
+**Which variables hold higher weightage in making a post come up on top?** The dataset has a target column of `is_top`, with binary data of "Y" or "N". This project adopts a supervised learning approach, using Machine Learning Models of `Logistic Regression` and `Random Forest` in sifting out the "super" variables.</br></br>
 
 ### Process Workflow
 The dataset was checked and clean of missing values, datatypes were streamlined into two types (object, and non-object) to enable easy visualizations for the purpose of exploratory data analysis. Data was then pre-processed using label-encoding and one-hot-encoding, and then data was split and model trained. Due to the data being previously categorical and numerical, the range of the encoding was wide and so I scaled the data using `sklearn.preprocessing`'s `StandardScaler`, then fitted it to the training data and applied transformations to the data.
@@ -30,10 +30,10 @@ After which I got down to serious business by setting up my first machine learni
 Next, I carried out the same steps with my second machine learning model `(Random Forest)` - Setup the classifier, hyperparameter tuning, fitting... you get the drift. This new model's F1 Score topped the previous (Logistic Regression). With **Random Forest as my best model**, I moved on to predicting and evaluating using my test data.
 
 ###### Comparison of Random Forest and Logistic Regression Model's Metrics
-![ML model comparison](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/python/images/ML%20Models%20Comparison.JPG)</br>
+![ML model comparison](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/python/images/ML%20Models%20Comparison.JPG)</br></br>
 
 ### Results
-Fortunately, the model metrics for the test data did not vary significantly (vs the training data). The results look good as well with immaterial FPs and FNs.</br>
+Fortunately, the model metrics for the test data did not vary significantly (vs the training data). The results look good as well with immaterial FPs and FNs.</br></br>
 
 ###### Results in a Confusion Matrix Visualization
 ![confusion matrix](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/python/images/Confusion%20Matrix.JPG)
