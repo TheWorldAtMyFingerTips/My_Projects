@@ -21,7 +21,7 @@ As like most things in life, there are a plethora of variables as to what makes 
 * What movies raked in the most revenue?
 
 ### Process Workflow
-##### Planning
+##### **Planning**
 As Benjamin Franklin said,
 > "If you fail to plan, you are planning to fail."
 
@@ -30,7 +30,26 @@ Likewise when dealing with databases, it is good practice (an essential, for me)
 ###### ER-Diagram
 ![ER-Diagram](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/ER-Diagram.JPG)</br></br>
 
-##### Creating Database, Loading Data, Data Preparation
+##### **Creating Database, Loading Data, Data Preparation**
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/2.%20Process%20-%20Creating%20Database%2C%20Loading%20Data%2C%20Data%20Preparation.png)
+
+##### **Data Analysis**
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/3.%20Data_Analysis_1.png)
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/4.%20Data%20Analysis_2.png)
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/5.%20Data%20Analysis_3.png)
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/6.%20Data%20Analysis_4.png)
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/7.%20Data%20Analysis_5.png)
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/8.%20Data_Manipulation_1.png)
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/9.%20Data_Manipulation_2.png)
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/10.%20Data_Manipulation_3.png)
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/11.%20Process%20-%20Import%20data%20into%20Excel.png)
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/12.%20Dashboard_Takeaways_1.png)
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/13.%20Dashboard_Takeaways_2.png)
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/14.%20Dashboard_Takeaways_3.png)
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/15.%20Dashboard_Takeaways_4.png)
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/16.%20Dashboard_Takeaways_5.png)
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/17.%20Dashboard_Takeaways_6.png)
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/18.%20Dashboard_Takeaways_7.png)
 
 
 
