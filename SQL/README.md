@@ -37,7 +37,7 @@ You can see my code in the image below.</br></br>
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/2.%20Process%20-%20Creating%20Database%2C%20Loading%20Data%2C%20Data%20Preparation.png)</br>
 
 #### *Data Analysis*
-Moving on to the Data Analysis part, I took to top-down approach in analysing the data as I usually like to have an overall feel of what the dataset is about before I drill down into the nitty gritties (which might overwhelm if I started off there).
+Moving on to the Data Analysis part, I took a top-down approach in analysing the data as I usually like to have an overall feel of what the dataset is about before I drill down into the nitty gritties (which might overwhelm if I started off there).
 
 I was interested in looking at the data in the time frame of "years" rather than "dates", so I created a new column and filled this in by extracting it from the `release_date` column. I then did a query to get a sense of the number of movies released in a year, with the conditions that they are not `adult` movies (this is a clean presentation afterall :grin:), and that budget and revenue are not 0.
 
