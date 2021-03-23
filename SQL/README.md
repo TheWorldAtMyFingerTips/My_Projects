@@ -32,15 +32,16 @@ I did this by doing up an ER-diagram:
 ![ER-Diagram](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/ER-Diagram.JPG)</br></br>
 
 #### *Creating Database, Loading Data, Data Preparation*
-In the `SQL` Server, I created a new database named `MOVIES`, uploaded the files, and then checked for duplicate rows in the files. You can see my code in the image below.
-![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/2.%20Process%20-%20Creating%20Database%2C%20Loading%20Data%2C%20Data%20Preparation.png)</br></br>
+In the `SQL` Server, I created a new database named `MOVIES`, uploaded the files, and then checked for duplicate rows in the files. </br>
+You can see my code in the image below.</br>
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/2.%20Process%20-%20Creating%20Database%2C%20Loading%20Data%2C%20Data%20Preparation.png)</br>
 
 #### *Data Analysis*
-Moving on to the Data Analysis part, I took to top-down approach in analysing the data as I like to have an overall feel of what it is about before I drill down into the nitty gritties (which might overwhelm if I started off here).
+Moving on to the Data Analysis part, I took to top-down approach in analysing the data as I usually like to have an overall feel of what the dataset is about before I drill down into the nitty gritties (which might overwhelm if I started off there).
 
-I was interested in looking at the data in the time frame of "years" rather than "dates", so I created a new column and filled this in by extracting it from the `release_date` column. I then did a query to get a sense of the number of movies released in a year, with the conditions that they are not `adult` movies (this is a clean presentation), and that budget and revenue are not 0.
+I was interested in looking at the data in the time frame of "years" rather than "dates", so I created a new column and filled this in by extracting it from the `release_date` column. I then did a query to get a sense of the number of movies released in a year, with the conditions that they are not `adult` movies (this is a clean presentation afterall :grin:), and that budget and revenue are not 0.
 
-You can see my code and the **quick insight** in the image below.
+You can see my code and the **quick insight** in the image below.</br>
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/3.%20Data_Analysis_1.png)</br></br>
 
 
