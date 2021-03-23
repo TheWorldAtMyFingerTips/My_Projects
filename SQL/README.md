@@ -21,20 +21,29 @@ As like most things in life, there are a plethora of variables as to what makes 
 * What movies raked in the most revenue?
 
 ### Process Workflow
-##### **Planning**
+#### *Planning*
 As Benjamin Franklin said,
 > "If you fail to plan, you are planning to fail."
 
-Likewise when dealing with databases, it is good practice (an essential, for me), to start off with planning. I did this by doing up an ER-diagram:
+Likewise when dealing with databases, it is good practice (an essential, for me), to start off with planning.
+I did this by doing up an ER-diagram:
 
 ###### ER-Diagram
 ![ER-Diagram](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/ER-Diagram.JPG)</br></br>
 
-##### **Creating Database, Loading Data, Data Preparation**
-![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/2.%20Process%20-%20Creating%20Database%2C%20Loading%20Data%2C%20Data%20Preparation.png)
+#### *Creating Database, Loading Data, Data Preparation*
+In the `SQL` Server, I created a new database named `MOVIES`, uploaded the files, and then checked for duplicate rows in the files. You can see my code in the image below.
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/2.%20Process%20-%20Creating%20Database%2C%20Loading%20Data%2C%20Data%20Preparation.png)</br></br>
 
-##### **Data Analysis**
-![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/3.%20Data_Analysis_1.png)
+#### *Data Analysis*
+Moving on to the Data Analysis part, I took to top-down approach in analysing the data as I like to have an overall feel of what it is about before I drill down into the nitty gritties (which might overwhelm if I started off here).
+
+I was interested in looking at the data in the time frame of "years" rather than "dates", so I created a new column and filled this in by extracting it from the `release_date` column. I then did a query to get a sense of the number of movies released in a year, with the conditions that they are not `adult` movies (this is a clean presentation), and that budget and revenue are not 0.
+
+You can see my code and the **quick insight** in the image below.
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/3.%20Data_Analysis_1.png)</br></br>
+
+
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/4.%20Data%20Analysis_2.png)
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/5.%20Data%20Analysis_3.png)
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/6.%20Data%20Analysis_4.png)
@@ -50,6 +59,5 @@ Likewise when dealing with databases, it is good practice (an essential, for me)
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/16.%20Dashboard_Takeaways_5.png)
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/17.%20Dashboard_Takeaways_6.png)
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/18.%20Dashboard_Takeaways_7.png)
-
 
 
