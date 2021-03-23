@@ -21,10 +21,16 @@ As like most things in life, there are a plethora of variables as to what makes 
 * What movies raked in the most revenue?
 
 ### Process Workflow
+##### Planning
 As Benjamin Franklin said,
 > "If you fail to plan, you are planning to fail."
 
 Likewise when dealing with databases, it is good practice (an essential, for me), to start off with planning. I did this by doing up an ER-diagram:
-![ER-Diagram](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/ER-Diagram.JPG)
+
+###### ER-Diagram
+![ER-Diagram](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/ER-Diagram.JPG)</br></br>
+
+##### Creating Database, Loading Data, Data Preparation
+
 
 
