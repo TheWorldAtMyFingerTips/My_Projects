@@ -33,7 +33,7 @@ I did this by doing up an ER-diagram:
 
 #### *Creating Database, Loading Data, Data Preparation*
 In the `SQL` Server, I created a new database named `MOVIES`, uploaded the files, and then checked for duplicate rows in the files. </br>
-You can see my code in the image below.</br>
+You can see my code in the image below.</br></br>
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/2.%20Process%20-%20Creating%20Database%2C%20Loading%20Data%2C%20Data%20Preparation.png)</br>
 
 #### *Data Analysis*
@@ -41,7 +41,7 @@ Moving on to the Data Analysis part, I took to top-down approach in analysing th
 
 I was interested in looking at the data in the time frame of "years" rather than "dates", so I created a new column and filled this in by extracting it from the `release_date` column. I then did a query to get a sense of the number of movies released in a year, with the conditions that they are not `adult` movies (this is a clean presentation afterall :grin:), and that budget and revenue are not 0.
 
-You can see my code and the **quick insight** in the image below.</br>
+You can see my code and the **quick insight** in the image below.</br></br>
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/3.%20Data_Analysis_1.png)</br></br>
 
 
