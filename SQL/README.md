@@ -44,8 +44,10 @@ I was interested in looking at the data in the time frame of "years" rather than
 You can see my code and the **quick insight** in the image below.</br></br>
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/3.%20Data_Analysis_1.png)</br></br>
 
+Next, I wanted to compare the trend of movies released monthly for the years of 2012 to 2016. Did they increase or decrease over the years? When were the peak/lull periods? Viewing this in 3 columns of `released_year`, `released_month`, and count of movies definately wouldn't help much in comparing. And so I did a `pivot` to present the data in a more intuitive format. You can see my code and the results in the image below.</br></br>
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/4.%20Data%20Analysis_2.png)</br>
 
-![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/4.%20Data%20Analysis_2.png)
+
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/5.%20Data%20Analysis_3.png)
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/6.%20Data%20Analysis_4.png)
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/7.%20Data%20Analysis_5.png)
