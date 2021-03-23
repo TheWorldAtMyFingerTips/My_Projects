@@ -5,7 +5,7 @@ Structured Query Language was the fourth core in the curriculum after the module
 
 This Capstone Project was designed to ignite our cognitive process, reinforce and apply our knowledge to "real-life" cases so as to solidify our learnings. We were marked on our ability to showcase and exhibit the five stages of the data lifecycle through the use of SQL and Excel (data collection, creating tables and loading data into SQL databases, data preparation, data analysis using SQL, creating Excel interactive dashboard and visualizations, presentation to stakeholders).
 
-### Capstone Project 2: The Movie Industry, An Overview
+### [Capstone Project 2: The Movie Industry, An Overview](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/Movies.sql)
 
 ### Abstract
 As like most things in life, there are a plethora of variables as to what makes a movie a "success". This project is based off the angle that my target audience is looking towards going into the movie business and would like to get a overall sense of the movie business.</br></br>
