@@ -25,4 +25,6 @@ As Benjamin Franklin said,
 > "If you fail to plan, you are planning to fail."
 
 Likewise when dealing with databases, it is good practice (an essential, for me), to start off with planning. I did this by doing up an ER-diagram:
+![ER-Diagram](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/ER-Diagram.JPG)
+
 
