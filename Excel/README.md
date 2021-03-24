@@ -33,7 +33,7 @@ The Dashboard serves to answer questions like:
 * Which state(s) are the major sales drivers, or burdens?
 * How does the trend of revenue growth look like on a year-on-year, month-to-month perspective?
 * Which segment, categories, sub-categories are performing well relatively to their peers?
-* Which sub-categories are bringing in the profits/losses?</br></br>
+* Which sub-categories are bringing in the profits/losses?
 </br></br>
 
 ### Process Workflow
