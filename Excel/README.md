@@ -52,7 +52,7 @@ Finally, I thought about the theme of the Dashboard. My considerations include:
 </br>
 
 ### Results
-And here is the final product - My first Excel Interactive Dashboard.
+And here is the final product - [My first Excel Interactive Dashboard.](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/Excel/U.S.%20Superstore%20(Retail).xlsx)
 
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/Excel/images/Excel-Dashboard.gif)
 
