@@ -33,7 +33,7 @@ I did this by doing up an ER-diagram:
 ![ER-Diagram](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/ER-Diagram.JPG)</br></br>
 
 #### *Creating Database, Loading Data, Data Preparation*
-In the `SQL` Server, I created a new database named `MOVIES`, uploaded the files, and then checked for duplicate rows in the files. </br>
+In the `SQL` Server, I created a new database named `MOVIES`, uploaded the files, linked the relationships, and then checked for duplicate rows in the files. </br>
 You can see my code in the image below.</br></br>
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/2.%20Process%20-%20Creating%20Database%2C%20Loading%20Data%2C%20Data%20Preparation.png)</br>
 
@@ -42,12 +42,18 @@ Moving on to the Data Analysis part, I took a top-down approach in analysing the
 
 I was interested in looking at the data in the time frame of "years" rather than "dates", so I created a new column and filled this in by extracting it from the `release_date` column. I then did a query to get a sense of the number of movies released in a year, with the conditions that they are not `adult` movies (this is a clean presentation afterall :grin:), and that budget and revenue are not 0.
 
-You can see my code and the **quick insight** in the image below.</br></br>
+You can see my **code** and the **quick insight** in the image below.</br></br>
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/3.%20Data_Analysis_1.png)</br></br>
 
-Next, I wanted to compare the trend of movies released monthly for the years of 2012 to 2016. Did they increase or decrease over the years? When were the peak/lull periods? Viewing this in 3 columns of `released_year`, `released_month`, and count of movies definately wouldn't help much in comparing. And so I did a `pivot` to present the data in a more intuitive format. You can see my code and the results in the image below.</br></br>
+Next, I wanted to compare the trend of movies released monthly for the years of 2012 to 2016. Did they increase or decrease over the years? When were the peak/lull periods? Viewing this in 3 columns of `released_year`, `released_month`, and count of movies wouldn't help much in comparing (unless you have an awesome brain that can reformat and do visualizations like a computer). And so I did a `pivot` to present the data in a more intuitive format. You can see my **code** and the **results** in the image below.</br></br>
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/4.%20Data%20Analysis_2.png)</br>
 
+As  W. Edwards Deming said,
+> “If you do not know how to ask the right question, you discover nothing.”
+
+In business (especially a profiteering one), where the bottom line is maximize profits with minimal resources, an important question in this case, would be "what are the movies with the highest return on investment?" My **code** below brings up the top 30 movies with the highest ROI in descending order. The top 2 movies with the highest ROI are "Paranormal Activity" and "The Blair Witch Project". Both are thriller movies.
+
+I did queries to see what are the movies which bring in the most revenue, and are the most expensive to produce as well.
 
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/5.%20Data%20Analysis_3.png)
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/6.%20Data%20Analysis_4.png)
