@@ -49,17 +49,17 @@ Finally, I thought about the theme of the Dashboard. My considerations include:
 * has to be easy on the eye (not glaring but comfortable and pleasing to look at)
 * color scheme has to be aligned to the company's color theme
 * colors be kept at a minimal as too many colors will introduce unnecessary mental strain which takes away focus on the goal-on-hand
+</br>
 
-</br></br>
 ### Results
 And here is the final product - My first Excel Interactive Dashboard.
 
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/Excel/images/Excel-Dashboard.gif)
 
 I presented this to the boss, from a standpoint of training him how to use it.</br>
-The boss is happy.</br>
+**The boss is happy.</br>
 I aced the project.</br>
-I am happy.</br></br></br>
+I am happy.</br></br></br>**
 
 
 ### Contact Me
