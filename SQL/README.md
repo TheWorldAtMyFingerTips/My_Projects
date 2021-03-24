@@ -48,14 +48,18 @@ You can see my **code** and the **quick insight** in the image below.</br></br>
 Next, I wanted to compare the trend of movies released monthly for the years of 2012 to 2016. Did they increase or decrease over the years? When were the peak/lull periods? Viewing this in 3 columns of `released_year`, `released_month`, and count of movies wouldn't help much in comparing (unless you have an awesome brain that can reformat and do visualizations like a computer). And so I did a `pivot` to present the data in a more intuitive format. You can see my **code** and the **results** in the image below.</br></br>
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/4.%20Data%20Analysis_2.png)</br>
 
-As  W. Edwards Deming said,
-> “If you do not know how to ask the right question, you discover nothing.”
+> “If you do not know how to ask the right question, you discover nothing.” - W. Edwards Deming
 
-In business (especially a profiteering one), where the bottom line is maximize profits with minimal resources, an important question in this case, would be "what are the movies with the highest return on investment?" My **code** below brings up the top 30 movies with the highest ROI in descending order. The top 2 movies with the highest ROI are "Paranormal Activity" and "The Blair Witch Project". Both are thriller movies.
+In business (especially a profiteering one), where the bottom line is maximize profits with minimal resources, an important question in this case, would be "what are the movies with the highest return on investment?" My **code** below brings up the top 30 movies with the highest ROI in descending order. For conciseness sake, I have only displayed the top 10.
 
-I did queries to see what are the movies which bring in the most revenue, and are the most expensive to produce as well.
+The top 2 movies with the highest ROI are "Paranormal Activity" and "The Blair Witch Project". Both are thriller movies.
 
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/5.%20Data%20Analysis_3.png)
+
+I did queries to see what are the movies which bring in the most revenue, and are the most expensive to produce as well. But let's leave this knowledge for later in the Dashboard Takeaways where it looks more aesthetically pleasing.
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/SQL%20code%20for%20highest%20revenue%20and%20cost.JPG)
+
+
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/6.%20Data%20Analysis_4.png)
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/7.%20Data%20Analysis_5.png)
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/SQL/images/8.%20Data_Manipulation_1.png)
