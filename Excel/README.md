@@ -15,7 +15,7 @@ Content for the Excel curriculum was intensively hands-on and reinforced my expe
 * Macro Recording
 </br>
 
-# Capstone Project 1: Build an Excel Interactive Dashboard
+# [Capstone Project 1: Build an Excel Interactive Dashboard](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/Excel/U.S.%20Superstore%20(Retail).xlsx)
 
 ### Abstract
 Where there is data, there _will be_ Microsoft Excel. The application has been (and still remains) as the perennial go-to-app for almost everyone (personal use, schools, businesses). Excel is a spreadsheet program which is used to create grids of numbers, text, and formulas which perform calculations. In business, it is commonly used to do up budgets, charts, record income and expenditure, and the like.
