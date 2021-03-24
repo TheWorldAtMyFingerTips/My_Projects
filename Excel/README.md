@@ -32,13 +32,35 @@ The Dashboard serves to answer questions like:
 * Which state(s) are the major sales drivers, or burdens?
 * How does the trend of revenue growth look like on a year-on-year, month-to-month perspective?
 * Which segment, categories, sub-categories are performing well relatively to their peers?
-* Which sub-categories are bringing in the profits/losses?
-* 
+* Which sub-categories are bringing in the profits/losses?</br></br>
+
 ### Process Workflow
+My starting point would be to put myself in the shoes of my target audience (in this case, it's the boss of the Superstore business) to grasp a solid understanding of his objective, brainstorm about the questions he needs answered, then how and what I can do with the dataset to meet the objective. In most of my work, I base my designs on working towards answering the what, when, where, why, and how.
+
+To do this, I first get an overall sense of what the dataset is about, contains, and can tell, to derive the much needed metrics (e.g. revenue by region and state, year on year revenue growth, sales % mix by category, etc.). Next, do up the relevant inidividual pivot tables and visualizations, bearing in mind that the visualization format must be easily and intuitively understandable.
+
+After I have finalized all the visualizations, I arrange them on the Dashboard, bearing in mind my target audience's preference for viewing the business from a top-down approach (start from the overview, then drill down to the smaller details). With this sequence, I position the visuals following a left to right and top to bottom approach as psychological research has shown that this is the way which most humans read content. 
+
+Next, I did up the slicers, again bearing in mind my target audience's to segregate and filter the data. For example, Sales is overseen by 4 Heads by region, so I did a Region slicer.
+
+Finally, I thought about the theme of the Dashboard. My considerations include:
+* has to be easy on the eye (not glaring but comfortable and pleasing to look at)
+* color scheme has to be aligned to the company's color theme
+* not too many colors as this will introduce unnecessary mental activity which takes away focus on the goal-on-hand
+
 
 ### Results
+And here is the final product - My first Excel Interactive Dashboard.
+
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/Excel/images/Excel-Dashboard.gif)
+
+I presented this to the boss, from a standpoint of training him how to use it.
+The boss is happy.
+I aced the project.
+I am happy.
+
 
 ### Contact Me
 
 
-![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/Excel/images/Excel-Dashboard.gif)
+
