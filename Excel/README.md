@@ -57,9 +57,10 @@ And here is the final product - My first Excel Interactive Dashboard.
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/Excel/images/Excel-Dashboard.gif)
 
 I presented this to the boss, from a standpoint of training him how to use it.</br>
-**The boss is happy.</br>
-I aced the project.</br>
-I am happy.</br></br></br>**
+
+The boss is happy.</br>
+**I aced the project.**</br>
+I am happy.</br></br></br>
 
 
 ### Contact Me
