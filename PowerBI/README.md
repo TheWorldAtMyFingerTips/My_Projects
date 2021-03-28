@@ -94,7 +94,7 @@ I am happy.</br>
 
 ###### Capstone Project 3: Power BI Dashboard Scoring Rubrics
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Capstone%20Project%203%20-%20Scoring%20Rubrics.JPG)
-</br></br></br>
+</br></br>
 
 ### Contact Me
 Contact Platform | Contact Address
