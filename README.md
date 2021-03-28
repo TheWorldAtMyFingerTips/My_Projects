@@ -7,6 +7,6 @@ This repository contains the projects that I have independently done during the 
 3. SQL: The Movie Industry, An Overview
 4. Excel (Interactive Dashboard): [Sample Superstore (Retail)](https://github.com/TheWorldAtMyFingerTips/My_Projects/tree/main/Excel)
 
-## Projects Description
+
 
 
