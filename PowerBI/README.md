@@ -43,8 +43,20 @@ Any experienced Power BI user would know that the foundation of Power BI lies in
 Next, I focused on designing the `Overview` dashboard, bearing in mind my stakeholders' preferred metrics of performance. I bridged these preferred metrics together with additional metrics which I felt would benefit them and this is the final product of the `Overview` dashboard:
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20Global%20Superstore%20-%20Overview.JPG)
 
-The `Overview` can be dynamically tweaked to suit the perspective of each Head of Sales' region, and/or Segment, with the order dates of interest - simply by choosing the options from the slicers located at the top of the dashboard.
+The **OVERVIEW** can be dynamically tweaked to suit the perspective of each Head of Sales' region, and/or Segment, with the order dates of interest - simply by choosing the options from the slicers located at the top of the dashboard.
 
-Since responsibilites are split according to regions, my next dashboard was designed from the angle of `**where**`. As like the `Overview`, it can be dynamically tweaked to suit the perspective of each Head of Sales' region, and/or Segment, with the order dates of interest - simply by choosing the options from the slicers located at the top of the dashboard.
+Since responsibilites are split according to regions, my next dashboard was designed from the angle of **WHERE**. As like the overview, it can be dynamically tweaked to suit the perspective of each Head of Sales' region, and/or Segment, with the order dates of interest - simply by choosing the options from the slicers located at the top of the dashboard.
 
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20Global%20Superstore%20-%20Where.JPG)
+
+After knowing which regions to focus on, the next dashboard answers the **WHEN**. Again, it can be dynamically tweaked to suit the perspective of each Head of Sales' region, and/or Segment, with the order dates of interest, **and** the added option of product category - simply by choosing the options from the slicers located at the left. Users can also drill into the details by quarters, months, and days, if they like - simply by adjusting the hierachy levels at the top of the visual.
+
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20Global%20Superstore%20-%20When%20(NEW).JPG)
+
+The next dashboard answers questions of the **WHAT** - whereby users can, at a glance, see each categories' corresponding gross profit % mix, gross profit, sales % mix, gross sales, quantity % mix, quantity, average discount, and average retail. Users can also drill further into the sub-categories and product names - simply by clicking on the fork (located at the top of the visual).
+
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power-BI-Whatgif.gif)
+
+
+
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power-BI-Whatgif.gif)
