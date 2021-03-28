@@ -60,7 +60,10 @@ I presented this to the boss, from a standpoint of training him how to use it.</
 
 The boss is happy.</br>
 **I aced the project.**</br>
-I am happy.</br></br></br>
+I am happy.</br>
+
+###### Capstone Project 1: Interactive Excel Dashboard Scoring Rubrics
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/Excel/images/Capstone%20Project%201%20-%20Scoring%20Rubrics.jpg)
 
 
 ### Contact Me
