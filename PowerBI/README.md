@@ -42,11 +42,11 @@ My starting point would always be to put myself in the shoes of my target audien
 Retail is a very dynamic business which doesn't stop, and it is important to design the dashboards to provide immediate insights of the overall business position (standing) with actionable angles of the **where, when, what, who, why, and hows**. I have designed my dashboards following these angles so as to enable cognitive ease and efficiency for the target audience.
 
 Any experienced Power BI user would know that the foundation of Power BI lies in the relationship of the tables (in the model), and that was one of the essential steps that I took - to ensure that built tables are 100% sound and robust. You can see my model's table relationships in the image below:
-</br>
+</br></br>
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20Model%20Relationship%20Tables.JPG)
 
 Next, I focused on designing the **OVERVIEW** dashboard, bearing in mind my stakeholders' preferred metrics of performance. I bridged these preferred metrics together with additional metrics which I felt would benefit them and this is the final product of the **OVERVIEW** dashboard:
-</br>
+</br></br>
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20Global%20Superstore%20-%20Overview.JPG)
 
 The **OVERVIEW** can be dynamically tweaked to suit the perspective of each Head of Sales' region, and/or Segment, with the order dates of interest - simply by choosing the options from the slicers located at the top of the dashboard.
