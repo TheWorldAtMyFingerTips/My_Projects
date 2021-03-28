@@ -52,25 +52,26 @@ Next, I focused on designing the **OVERVIEW** dashboard, bearing in mind my stak
 The **OVERVIEW** can be dynamically tweaked to suit the perspective of each Head of Sales' region, and/or Segment, with the order dates of interest - simply by choosing the options from the slicers located at the top of the dashboard.
 
 Since responsibilites are split according to regions, my next dashboard was designed from the angle of **WHERE**. As like the overview, it can be dynamically tweaked to suit the perspective of each Head of Sales' region, and/or Segment, with the order dates of interest - simply by choosing the options from the slicers located at the top of the dashboard.
-</br>
+</br></br>
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20Global%20Superstore%20-%20Where.JPG)
 
 After knowing which regions to focus on, the next dashboard answers the **WHEN**. Again, it can be dynamically tweaked to suit the perspective of each Head of Sales' region, and/or Segment, with the order dates of interest, **and** the added option of product category - simply by choosing the options from the slicers located at the left. Users can also drill into the details by quarters, months, and days, if they like - simply by adjusting the hierachy levels at the top of the visual.
-</br>
+</br></br>
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20Global%20Superstore%20-%20When%20(NEW).JPG)
 
 The next dashboard answers questions of the **WHAT** - whereby users can, at a glance, see each categories' corresponding gross profit % mix, gross profit, sales % mix, gross sales, quantity % mix, quantity, average discount, and average retail. Users can also drill further into the sub-categories and product names - simply by clicking on the fork (located at the top of the visual).
-</br>
+</br></br>
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power-BI-Whatgif.gif)
 
 Next dashboard dwells into the **WHO** - the customers. Users can view which customers are the top (and bottom) by gross profit % mix, gross profit, sales % mix, gross sales, quantity % mix, quantity, average discount, and average retail.
-</br>
+</br></br>
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20-%20Who.gif)
 
 The last 2 dashboards are somewhat like guides as to **HOW** to make the best use out of the forementioned dashboards (of overview, where, when, what, who) by raising attention to the **WHY**. The dashboards are designed to be self-explanatory, as follows:
-</br>
+</br></br>
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20Global%20Superstore%20-%20How1.JPG)
-</br>
+</br></br>
+
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20Global%20Superstore%20-%20How2.JPG)
 </br></br>
 
