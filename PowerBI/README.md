@@ -57,6 +57,12 @@ The next dashboard answers questions of the **WHAT** - whereby users can, at a g
 
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power-BI-Whatgif.gif)
 
+Next dashboard dwells into the **WHO** - the customers. Users can view which customers are the top (and bottom) by gross profit % mix, gross profit, sales % mix, gross sales, quantity % mix, quantity, average discount, and average retail.
+
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20-%20Who.gif)
+
+The last 2 dashboards are somewhat like guides as to **HOW** to make the best use out of the forementioned dashboards (of overview, where, when, what, who) by raising attention to the **WHY**. The dashboards are designed to be self-explanatory, as follows:
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20Global%20Superstore%20-%20How1.JPG)
+![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20Global%20Superstore%20-%20How2.JPG)
 
 
-![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power-BI-Whatgif.gif)
