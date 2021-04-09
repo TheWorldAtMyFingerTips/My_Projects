@@ -52,7 +52,13 @@ The data-driven approach suggests to focus on creating content which:
 * is addictive --> `followers`
 
 But of course, that being said, life is a mix of the quants and qualitative aspects and so we need to consider the latter as well :)
-</br>
+</br></br>
+
+I presented the above-mentioned to "The Boss".</br>
+He was pleased.</br>
+He awarded my efforts with a PERFECT score.</br>
+I am more than pleased.</br>
+</br></br>
 
 ###### Capstone Project 4: Building Machine Learning Models Using Python Scoring Rubrics
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/python/images/Capstone%20Project%204%20-%20Scoring%20Rubrics.jpg)
